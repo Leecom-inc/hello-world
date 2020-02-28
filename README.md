@@ -1,2 +1,5 @@
 # hello-world
-My repo
+
+hey now.
+
+I am new to this and trying to learn.
